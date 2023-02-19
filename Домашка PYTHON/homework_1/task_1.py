@@ -1,3 +1,5 @@
+# Найдите сумму цифр трехзначного числа.
+
 from random import randint
 
 random_number = randint(100, 999)
